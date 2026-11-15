@@ -9,13 +9,8 @@
 
 ## 📋 Table of Contents
 
+- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-  - [Bettermode](#bettermode)
-  - [Circle](#circle)
-  - [Mighty Networks](#mighty-networks)
-  - [Higher Logic Vanilla](#higher-logic-vanilla)
-  - [Khoros Communities](#khoros-communities)
-  - [Invision Community](#invision-community)
 - [Open-Source Software](#-open-source-software)
   - [Discourse](#discourse)
   - [Flarum](#flarum)
@@ -27,39 +22,24 @@
 
 ---
 
+## 📈 Sector Overview & Market Dynamics
+
+The global online community and forum platform market is estimated at between **$800M and over $6B** (projected to reach $10B+ by the early 2030s at a 10%–15% CAGR), depending on whether enterprise social networks are included. The sector is **moderately to highly fragmented** among modern creator and brand-led SaaS tools and open-source alternatives, though heavily concentrated at the top enterprise level where large social and customer engagement suites dominate.
+
+---
+
 ## 🟦 SaaS / Hosted Platforms
 
-Commercial, cloud-hosted Online Community and Forum Software platforms. These are not open-source but are included as reference points for feature comparison.
+Commercial, cloud-hosted Online Community and Forum Software platforms. These are not open-source but are included as reference points for feature comparison. Sorted in descending order by company scale (annual revenue / valuation).
 
-### Bettermode
-**Type:** Modern community platform with AI and extensive integrations
-Bettermode is positioned for marketing and customer success teams to drive engagement, retention, and revenue through community [citation:6]. It offers discussion forums, Q&A, knowledge base capabilities, gamification, a drag-and-drop layout editor, analytics, and moderation tools. The platform is **SOC 2 Type II compliant**, supports GDPR and CCPA, and offers US/EU data residency. It includes AI spam detection, federated search, MCP (AI connector), and integrations with Salesforce, HubSpot, Intercom, and Segment. Pricing starts at **$149/month** [citation:6].
-**Best for:** Mid-market to enterprise organizations wanting a polished, modern community platform with strong integrations and AI features.
-
-### Circle
-**Type:** Creator-focused community platform with courses and payments
-Circle provides community building with courses, events, live streams, and payments built in. The **Professional plan is $89/month** (billed annually) with unlimited members, courses, conversations, events, website builder, and paid memberships [citation:7]. The **Business plan ($199/month)** adds workflows, custom profile fields, APIs, and removes Circle branding. A **Plus plan** with custom pricing adds AI agents, custom SSO, and higher limits. Circle offers a 30-day money-back guarantee and migration services for payments [citation:7].
-**Best for:** Creators, coaches, and course sellers wanting an all-in-one community platform with monetization built in.
-
-### Mighty Networks
-**Type:** Community platform with courses and native apps
-Mighty Networks provides community building with a **Launch Plan** that includes a custom website, free iOS/Android apps, the ability to charge for membership in local currencies, direct messaging, unlimited Spaces, posts/articles/hashtags, courses, events, and AI features powered by People Magic [citation:8]. It includes gamification with profile badges, recognitions, points, and basic leaderboards, plus a built-in member referral program. The Launch Plan includes 3 hosts, 10 moderators, 200 GB storage, and livestreaming up to 20 hours/month [citation:8].
-**Best for:** Creators and educators wanting a branded community with native mobile apps and course delivery.
-
-### Higher Logic Vanilla
-**Type:** Enterprise community platform with comprehensive bundles
-Higher Logic Vanilla's Enterprise plan includes a **Community Bundle** with themes, categories, moderation, Q&A, ideation, gamification, tagging, groups, events, analytics, automation rules, and AI features (suggested answers, sentiment analysis) [citation:9]. It adds **Multi-Forum & Site Management** with multi-lingual support and sub-communities, an **SSO Bundle** (SAML, OAuth, JWT, social), an **Integration Bundle** (Salesforce, Zendesk, Jira, HubSpot, and more), and a **Developer Bundle** with unlimited API calls and webhooks. **Important:** Vanilla uses custom pricing with no free plan, and third-party estimates place the Standard plan at **$599/month** for up to 1,000 users [citation:11]. The Enterprise plan includes a money-back SLA, isolated cluster, and 10 knowledge base sites [citation:9].
-**Best for:** Established organizations with complex community needs and a substantial budget, accepting the enterprise sales process.
-
-### Khoros Communities
-**Type:** Enterprise community platform with social media management
-Khoros Communities provides enterprise-grade forums, knowledge base, ideation, gamification, and social media management. User reviews highlight **configurability** and **SEO optimization** as strengths, but note that the platform is **very expensive** (one reviewer reported costs exceeding **$200k/year**) and that updates can be slow [citation:10]. It is positioned for large brands managing customer communities at scale.
-**Best for:** Large enterprises with dedicated community teams and substantial budgets, accepting the high cost and slower innovation cycle.
-
-### Invision Community
-**Type:** Full-featured community platform with tiered pricing
-Invision Community offers a comprehensive community platform with forums, courses, events, live topics, gamification, and AI moderation. The **Business plan is $549/month** (billed annually) with full analytics, Google Tag Manager support, sentiment actions, image moderation, and 6,500 GB storage [citation:12]. The **Enterprise plan** adds unlimited storage, dedicated support, custom themes, and managed services. A **30-day free trial** is available with no credit card required [citation:12].
-**Best for:** Organizations wanting a feature-rich community platform with strong moderation and analytics, accepting the premium pricing.
+| Platform | Company Scale (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier / Trial Limits | Key Features & Positioning |
+|---|---|---|---|---|
+| **Khoros Communities** | ~$280M+ ARR (Vista Equity Partners-backed) | Custom enterprise quote (starts ~$160,000/year; implementation ~$10k–$75k+) | No permanent free plan; No free trial available (sales demo only) | Enterprise-scale community forums, ideation, knowledge base, and social media management for massive global brands. |
+| **Higher Logic Vanilla** | ~$68M ARR ($55M growth funding from JMI Equity) | Custom enterprise quote (starts ~$24,000/year or ~$599/month for up to 1,000 users) | No permanent free plan; No public free trial (guided sales demo only) | Enterprise community bundle with multi-forum architecture, advanced SSO, deep CRM/helpdesk integrations, and SLAs. |
+| **Circle** | ~$68M ARR ($200M–$250M valuation) | $89/month (Professional plan, billed annually) | No permanent free plan; 14-day free trial (includes core features; no credit card required) | All-in-one creator and modern brand community with courses, live events, paywalls, and group discussions. |
+| **Mighty Networks** | ~$8M–$38M ARR ($200M–$250M valuation) | $79/month (Launch Plan, billed annually; 2% transaction fee) | No permanent free plan; 14-day free trial (access to Launch/Course features; no credit card required) | Creator- and educator-focused community with built-in native courses, iOS/Android apps, livestreams, and memberships. |
+| **Bettermode** | ~$3.1M ARR ($7.5M total venture funding) | $149/month (Starter plan, billed annually; up to 10k members) | No permanent free plan; 14-day free trial (access to Starter/Growth features; no credit card required) | Highly customizable customer community platform with AI search, modular layout builder, and CRM integrations. |
+| **Invision Community** | ~$1.8M ARR (Bootstrapped / privately held) | $89/month (Creator plan, billed annually) | No permanent free plan; 14-day free trial (limited to temporary subdomain, outbound email disabled, no marketplace plugins; no credit card required) | Feature-rich forum and community platform with courses, live topics, calendar events, and granular content moderation. |
 
 ---
 
