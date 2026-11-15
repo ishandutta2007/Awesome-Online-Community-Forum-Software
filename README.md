@@ -87,7 +87,7 @@ Commercial, cloud-hosted Online Community and Forum Software platforms. These ma
 
 ## 🟩 Open-Source Community & Forum Software 🛠️
 
-Self-hosted, community-driven Online Community and Forum Software tools. Sorted in **descending order by GitHub star count**. Each repository badge links directly to its live GitHub stargazers.
+Self-hosted, community-driven Online Community and Forum Software tools. Sorted in **descending order by GitHub Stars_Count**. Each repository badge links directly to its live GitHub stargazers.
 
 ### 1. Discourse 💬
 <a href="https://github.com/discourse/discourse/stargazers"><img src="https://img.shields.io/github/stars/discourse/discourse?style=social&color=white" alt="Discourse Stars" /></a>
@@ -267,7 +267,7 @@ Contributions are warmly welcomed! Help us keep this directory accurate, up-to-d
 3. 📝 **Add your recommended platform** ensuring it satisfies the criteria:
    - Actively maintained (commit or release within the last 12 months).
    - Clear stack, licensing, and positioning description.
-   - Live GitHub repository URL with star badge for open-source entries.
+   - Live GitHub repository URL with Stars_Badge for open-source entries.
 4. 🚀 **Commit your changes** (`git commit -m "Add New-Platform-Name to open-source directory"`).
 5. 📤 **Submit a Pull Request** with a brief summary of why it should be listed.
 
